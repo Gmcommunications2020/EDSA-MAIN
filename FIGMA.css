@@ -1,0 +1,24 @@
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 69px;
+}
+
+{
+    position: relative;
+    width: 1440px;
+    height: 3322.14px;
+    background: #FFFFFF;    
+}
+
+{
+    position: absolute;
+    left: 0%;
+    right: 0.18%;
+    top: 1.59%;
+    bottom: 1.44%;
+    background: linear-gradient(268.93deg, #299BD8 8.03%, #1262AF 99.09%);
+}
+

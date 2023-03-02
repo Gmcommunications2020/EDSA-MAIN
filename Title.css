@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.title {
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+}
+.paragraph {
+    text-indent: 50px;
+    font-size: 18px;
+    background-color: rgba(red, green, blue, alpha)
+/* padding: 0px 50px 50px 200px; */
+/* top right bottom left */
+padding: 10px 50px;
+margin: 20px;
+border-radius: 15px;
+opacity: 1;
+border-color: black
+}
+.instruction {
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    width: 40%;
+    background-color: red;
+    margin: auto;
+}
+
+.container {
+/* background-color: white; */
+}
+.input_container {
+background-color: white;
+padding: 10px;
+}
+button {
+    width: 42%;
+    padding: 10px 8px;
+    margin-top: 20px;
+    background-color: #1877f2
+    color: white0
+    font-size: 20px;
+    /* border: none; */
+    border-radius: 5px;
+}
